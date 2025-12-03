@@ -1,6 +1,6 @@
 ### Advent of Code 2025
 
-```fish
+```bash
 git clone https://github.com/Vikrant0207/Advent-of-Code-2025.git
 ```
 
