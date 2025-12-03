@@ -28,5 +28,6 @@ def part2(input):
 
 
 if __name__ == "__main__":
-    result = part2("Day 1/input.txt")
+    input = "Day 1/input.txt"
+    result = part2(input)
     print("Part 2 Password:", result)

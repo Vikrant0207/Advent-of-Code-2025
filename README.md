@@ -11,7 +11,7 @@ Change the inputs in ``input.txt`` file with your inputs.
 Change the inputs in Line 1 with your inputs
 
 ## Day 3
-...
+Change the inputs in ``input.txt`` file with your inputs.
 
 ## Day 4
 ...

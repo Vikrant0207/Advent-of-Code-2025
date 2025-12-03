@@ -22,6 +22,7 @@ def part1(input):
     return zeros
 
 if __name__ == "__main__":
-    result = part1("Day 1/input.txt")
+    input = "Day 1/input.txt"
+    result = part1(input)
     print("Password:", result)
 
