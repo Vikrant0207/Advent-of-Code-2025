@@ -5,16 +5,16 @@ git clone https://github.com/Vikrant0207/Advent-of-Code-2025.git
 ```
 
 ## Day 1
-Change the inputs in ``input.txt`` file with your inputs.
+Change the inputs in ``Day 1/input.txt`` file with your inputs.
 
 ## Day 2
 Change the inputs in Line 1 with your inputs
 
 ## Day 3
-Change the inputs in ``input.txt`` file with your inputs.
+Change the inputs in ``Day 3/input.txt`` file with your inputs.
 
 ## Day 4
-...
+Change the inputs in ``Day 4/input.txt`` file with your inputs.
 
 ## Day 5
 ...
