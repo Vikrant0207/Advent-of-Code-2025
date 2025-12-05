@@ -17,7 +17,7 @@ Change the inputs in ``Day 3/input.txt`` file with your inputs.
 Change the inputs in ``Day 4/input.txt`` file with your inputs.
 
 ## Day 5
-...
+Change the inputs in ``Day 5/input.txt`` file with your inputs.
 
 ## Day 6
 ...
