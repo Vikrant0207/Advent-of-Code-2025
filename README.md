@@ -23,10 +23,10 @@ Change the inputs in ``Day 5/input.txt`` file with your inputs.
 Change the inputs in ``Day 6/input.txt`` file with your inputs.
 
 ## Day 7
-...
+Change the inputs in ``Day 7/input.txt`` file with your inputs.
 
 ## Day 8
-...
+Change the inputs in ``Day 8/input.txt`` file with your inputs.
 
 ## Day 9
 ...
